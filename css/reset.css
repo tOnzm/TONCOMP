@@ -1759,7 +1759,7 @@ object {
   border: none;
 }
 .quickview-content .quantity .button .btn:hover {
-  color: #f7941d;
+  color: #fff;
 }
 .quickview-content .quantity .input-number {
   border: 1px solid #eceded;

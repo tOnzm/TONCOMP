@@ -194,7 +194,7 @@ Version:1.0
   font-weight: 500;
   font-size: 14px;
   color: #fff;
-  background: #333;
+  background: #0071dc;
   display: inline-block;
   -webkit-transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
@@ -207,7 +207,7 @@ Version:1.0
 }
 .btn:hover {
   color: #fff;
-  background: #ffc220;
+  background: #0055a5;
 }
 #scrollUp {
   right: 10px;
@@ -2967,7 +2967,7 @@ Version:1.0
   padding: 0px 50px;
 }
 .shopping-summery thead {
-  background: #ffc220;
+  background: #0071dc;
   color: #fff;
 }
 .shopping-summery thead tr th {
@@ -3106,13 +3106,13 @@ Version:1.0
   border: navajowhite;
   margin-left: 4px;
   background: transparent;
-  color: #333;
-  background: #fff;
+  color: #fff;
+  background: #0071dc;
   box-shadow: 0px 0px 5px #00000012;
 }
 .shopping-cart .total-amount .left .coupon form .btn:hover {
-  background: #fff;
-  color: #ffc220;
+  background: #01529e;
+  color: #fff;
 }
 .shopping-cart .total-amount .left label {
   font-size: 22px;
@@ -3520,7 +3520,7 @@ Version:1.0
   line-height: 20px;
 }
 .shop.login .form .btn:hover {
-  background: #ffc220;
+  background: #025baf;
   color: #fff;
 }
 .shop.login .login-form .checkbox {
@@ -4708,7 +4708,7 @@ Version:1.0
   margin-bottom: 30px;
 }
 .contact-us .single-info i {
-  color: #fff;
+  color: #000;
   font-size: 18px;
   display: inline-block;
   margin-bottom: 15px;
