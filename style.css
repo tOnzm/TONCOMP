@@ -1238,7 +1238,7 @@ Version:1.0
 }
 .hero-slider .single-slider {
   height: auto;
-  background-image: url("./images/home/1900x700.png");
+  background-image: url("./images/home/1900x700-2.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1777,6 +1777,7 @@ Version:1.0
   background: #ffc220;
   color: #000;
   border-color: transparent;
+  box-shadow: 3px 4px 0px 0px #0071dc;
 }
 /* Sinlge Product */
 .single-product {
@@ -5139,4 +5140,10 @@ img.hover-shadow {
 
 .hover-shadow:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.out-of-stock,
+.new,
+.price-dec {
+  box-shadow: 3px 4px 0px 0px #000;
 }
