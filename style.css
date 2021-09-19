@@ -813,7 +813,7 @@ Version:1.0
   border: none;
 }
 .header.shop .main-category li a {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 600;
   color: #333;
   padding: 13px 25px 13px 25px;
@@ -1274,6 +1274,8 @@ Version:1.0
 }
 .hero-slider .hero-text .btn {
   color: #fff;
+  box-shadow: 5px 6px 0px 0px #002547;
+
   background: #0071dc;
   padding: 13px 30px;
   line-height: initial;
@@ -1282,7 +1284,7 @@ Version:1.0
   z-index: 0;
 }
 .hero-slider .hero-text .btn:hover {
-  background: #0088cc;
+  background: #0055a5;
   color: #fff;
 }
 /* Start Hero Area 2 CSS */
@@ -1594,18 +1596,23 @@ Version:1.0
   text-transform: capitalize;
 }
 .small-banner .single-banner a {
-  color: rgb(0, 0, 0);
+  color: #fff;
+  box-shadow: 5px 6px 0px 0px #002547;
+  padding: 1em;
   margin-top: 22px;
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
   display: inline-block;
   text-transform: uppercase;
-  border-bottom: 2px solid #333;
+  border-bottom: 0px solid #333;
+  background-color: #0071dc;
 }
 .small-banner .single-banner a:hover {
-  color: #ffc220;
+  color: #fff;
   border-color: #ffc220;
+
+  background-color: #0055a5;
 }
 /*======================================
    End Small Banner CSS
@@ -1652,6 +1659,7 @@ Version:1.0
   text-transform: uppercase;
 }
 .midium-banner .single-banner a {
+  box-shadow: 5px 6px 0px 0px #002547;
   display: inline-block;
   font-weight: 600;
   text-align: center;
@@ -1662,15 +1670,14 @@ Version:1.0
   padding: 0.375rem 0.75rem;
   font-size: 13px;
   border-radius: 0.25rem;
-  background: #333;
+  background: #0071dc;
   color: #fff !important;
   padding: 10px 27px;
-  border-radius: 30px;
   margin-top: 25px;
   text-transform: uppercase;
 }
 .midium-banner .single-banner a:hover {
-  background: #ffc220;
+  background: #0055a5;
   color: #fff;
 }
 /*======================================
@@ -2568,6 +2575,7 @@ Version:1.0
   color: #fff;
   display: inline-block;
   font-weight: 500;
+  box-shadow: 5px 6px 0px 0px #002547;
 }
 .shop.single .add-to-cart .btn:hover {
   color: #fff;
@@ -2629,6 +2637,7 @@ Version:1.0
   background: #0071dc;
   color: #fff;
   border-color: transparent;
+  box-shadow: 5px 6px 0px 0px #002547;
 }
 .shop.single .tab-single {
 }
