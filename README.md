@@ -17,4 +17,3 @@ TonComp IT is a computer store application designed for educational purposes and
 
 Check out the live demo of TonComp IT on [GitHub Pages](https://tonzm.github.io/TONCOMP_IT/).
 
-Feel free to explore, learn, and contribute to make TonComp IT even better!
